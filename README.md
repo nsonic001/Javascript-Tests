@@ -8,7 +8,7 @@
 
 * [Link List](https://github.com/nsonic001/Javascript-Tests/wiki/Create-a-node-module-which-can-be-exported,-for-Linked-List-of-Javascript-objects)
 
----- Create a node module which can be exported, for Linked List of Javascript objects which contains the linked list algorithms
+---- Create a web based node app, which exposes APIs endpoints for using the link list functionalities.
 
 
 Please click on the links for full questions
